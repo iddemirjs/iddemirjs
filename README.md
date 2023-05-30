@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=iddemirjs&show_icons=true&include_all_commits=true))
+![iddemirjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=iddemirjs&show_icons=true&include_all_commits=true))
 
 <!---
 iddemirjs/iddemirjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
