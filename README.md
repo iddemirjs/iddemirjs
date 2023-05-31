@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Teacnologies.
 - 🌱 I’m currently learning Swift, Elixir
 - 🏢 I've been working with featuremind since 2021
-- 📫 How to reach me on <a href="idrisdemir.com">idrisdemir.com</a> and <a href="https://www.linkedin.com/in/iddemir">LinkedIn</a>
+- 📫 You can reach me on <a href="idrisdemir.com">idrisdemir.com</a> and <a href="https://www.linkedin.com/in/iddemir">LinkedIn</a>
 
 <table>
   <tr>
