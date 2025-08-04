@@ -1,6 +1,6 @@
 - 👋 Hi, I’m İdris Demir
 - 👀 I’m interested in Backend Teacnologies.
-- 🌱 I’m currently learning Swift, Elixir
+- 🌱 I’m currently learning Go
 - 🏢 I've been working with featuremind since 2021
 - 📫 You can reach me on <a href="idrisdemir.com">idrisdemir.com</a> and <a href="https://www.linkedin.com/in/iddemir">LinkedIn</a>
 
